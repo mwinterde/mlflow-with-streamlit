@@ -11,7 +11,7 @@ experiments.
 Watch [this YouTube video](https://youtu.be/2wEbOmsV028) for a simple
 demonstration:
 
-[![](demo.png)](https://youtu.be/2wEbOmsV028)
+[![](resources/demo.png)](https://youtu.be/2wEbOmsV028)
 
 ## Try yourself
 
